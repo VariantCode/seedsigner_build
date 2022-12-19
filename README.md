@@ -4,7 +4,11 @@ Read Me
 # Important Info:
 ______
 
-Date modified (Read Me/script): 20211005/20211001
+Date modified (Read Me/script): 20221219/2021219
+
+VariantCode here; It seems that this README is out of date and the project seems very inactive and I 
+don't have any serious plans to get this working. I only plan to tinker and nothing more. Please 
+do not use this code or follow the README. If you do use this code, you do so at your own risk.
 
 ______
 
